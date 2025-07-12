@@ -318,27 +318,13 @@ padding: 32px 16px;
   
 }
 
-
-
 .footer {
   background-color: var(--background-color);
- 
-  
- 
-   
-    
-   
-    
     width: 1440px;
     gap: 16px;
     display: flex;
-      padding: 156px 100px ;
-    
-     
+      padding: 100px 156px ;
       flex-direction: column;
-  
-  
-
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
@@ -348,8 +334,7 @@ padding: 32px 16px;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--logo-color-web);
-  margin-left: 156px;
-    margin-top: 100px;
+
    
  
 }
@@ -361,7 +346,6 @@ padding: 32px 16px;
   color: var(--footer-text-color);
   
     width: 264px;
-    margin-left: 156px;
     
 }
 .menu-btn {
