@@ -86,15 +86,23 @@ ol {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
+.container{
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+}
 .header{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  
   /* width: 1440px;
   height: 72px; */
   padding: 24px 156px;
+  border-bottom: 1px solid #e7e9fc
   
+}
+.header-container{
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .header-nav{
 display: flex;
