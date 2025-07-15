@@ -347,7 +347,6 @@ padding: 32px 0;
       
 }
 .footer-container{
-  gap: 16px;
     display: flex;
     flex-direction: column;
 
@@ -360,7 +359,8 @@ padding: 32px 0;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--logo-color-web);
-
+  display: inline-block;
+margin-bottom: 16px;
    
  
 }
