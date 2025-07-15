@@ -364,6 +364,9 @@ margin-bottom: 16px;
    
  
 }
+.footer-link{
+  display: inline-block;
+}
 .footer-logo-tex {
   color: var(--logo-color-footer);
   display: inline-block;
