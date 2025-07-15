@@ -120,7 +120,7 @@ align-items: center;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: var(--logo-color-web);
- 
+ margin-right: 76px;
   
 }
 
@@ -135,7 +135,9 @@ display: flex;
 align-items: center;
 gap: 40px;
  }
-
+.header-nav-item{
+  padding: 24px 0;
+}
   
 .header-nav-link {
   /* letter-spacing: 0.02em; */
